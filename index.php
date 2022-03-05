@@ -26,7 +26,7 @@ echo "<img src=images/".$arrayp['prodPicNameSmall']." height=200 width=200>";
 echo "</td>";
 echo "<td style='border: 0px'>";
 echo "<p><h5>".$arrayp['prodName']."</h5>"; //display product name as contained in the array
-echo "<p>".$arrayp['prodDescripShort']."</p>";
+echo "<p> ".$arrayp['prodDescripShort']."</p>";
 echo "<p><b>$".$arrayp['prodPrice']."</b></p>";
 echo "</td>";
 echo "</tr>";
